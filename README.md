@@ -28,6 +28,10 @@ Portfolio ini dibuat sebagai website personal yang responsif dan mudah digunakan
 
 Buka `index.html` langsung di browser atau gunakan Live Server di VS Code.
 
+## Deployment
+
+Project ini dapat dipublikasikan melalui GitHub Pages dengan memilih branch `main` dan folder `/root` pada pengaturan Pages repository.
+
 ## Struktur File
 
 ```text
