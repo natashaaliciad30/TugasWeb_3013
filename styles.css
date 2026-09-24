@@ -92,6 +92,11 @@ h2 { font-size: clamp(48px, 7vw, 92px); line-height: .94; letter-spacing: -.07em
 .reveal { opacity: 0; transform: translateY(24px); transition: opacity .7s ease, transform .7s ease; }
 .reveal.visible { opacity: 1; transform: translateY(0); }
 
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}
+
 @media (max-width: 760px) {
   .section-shell, .site-header { width: min(100% - 42px, 560px); }
   .site-header { padding: 22px 0; }
