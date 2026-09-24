@@ -1,9 +1,9 @@
-<img width="1920" height="1080" alt="Screenshot 2026-09-24 233544" src="https://github.com/user-attachments/assets/e697708c-5636-4b10-9aa8-c06f0c282e08" /># Natasha Alicia Daniela Portfolio
+# Natasha Alicia Daniela Portfolio
 
 Website portfolio pribadi Natasha Alicia Daniela yang menampilkan profil singkat, pendidikan, keterampilan, hobi, pengalaman organisasi, dan informasi kontak.
 
 ## Screenshot
-
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 233544" src="https://github.com/user-attachments/assets/e697708c-5636-4b10-9aa8-c06f0c282e08" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 233526" src="https://github.com/user-attachments/assets/4d9727f5-397b-458a-98a4-e6a8e700c583" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 233538" src="https://github.com/user-attachments/assets/5b71944d-1099-458d-a9c6-0018731cafbb" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 233544" src="https://github.com/user-attachments/assets/fe099030-b311-471a-aa2d-f027cbbc6a47" />
