@@ -105,6 +105,7 @@ h2 { font-size: clamp(48px, 7vw, 92px); line-height: .94; letter-spacing: -.07em
   .site-nav a.active::after { display: none; }
   .hero { min-height: calc(100vh - 65px); grid-template-columns: 1fr; padding: 55px 0 90px; }
   h1 { font-size: clamp(53px, 15vw, 84px); }
+  .hero-copy { min-width: 0; }
   .hero-mark { width: 68vw; max-width: 320px; justify-self: center; margin-top: 55px; }
   .scroll-cue { bottom: 20px; }
   .about, .projects, .contact { padding: 100px 0; }
