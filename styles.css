@@ -41,7 +41,7 @@ h1 em, h2 em { color: var(--red); font-style: normal; }
 .text-link { font: 11px var(--mono); text-transform: uppercase; border-bottom: 1px solid var(--ink); padding-bottom: 5px; }
 .text-link span { margin-left: 17px; color: var(--red); }
 .hero-mark { justify-self: end; width: min(390px, 100%); height: min(390px, 100vw); position: relative; display: grid; place-items: center; padding: 14px; background: var(--cream); border-radius: 50%; }
-.hero-photo { width: 100%; height: 100%; object-fit: cover; object-position: center top; border-radius: 50%; display: block; }
+.hero-photo { width: 100%; height: 100%; object-fit: contain; object-position: center; background: var(--cream); border-radius: 50%; display: block; }
 .monogram { font-size: clamp(66px, 9vw, 120px); letter-spacing: -.12em; font-weight: 600; z-index: 1; transform: translateX(-10px); }
 .monogram span { color: var(--red); }
 .hero-mark p { position: absolute; left: 15%; bottom: 16%; font: 10px/1.5 var(--mono); letter-spacing: .1em; }
