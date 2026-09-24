@@ -8,6 +8,12 @@ menuToggle.addEventListener('click', () => {
   menuToggle.setAttribute('aria-expanded', String(isOpen));
 });
 
+document.addEventListener('keydown', (event) => {
+  if (event.key !== 'Escape' || !siteNav.classList.contains('open')) return;
+  siteNav.classList.remove('open');
+  menuToggle.setAttribute('aria-expanded', 'false');
+});
+
 navLinks.forEach((link) => {
   link.addEventListener('click', () => {
     siteNav.classList.remove('open');
