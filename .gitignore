@@ -1,0 +1,9 @@
+# Local editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local dependencies and build output
+node_modules/
+dist/
+build/
