@@ -6,6 +6,8 @@ Website portfolio pribadi Natasha Alicia Daniela yang menampilkan profil singkat
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 233526" src="https://github.com/user-attachments/assets/4d9727f5-397b-458a-98a4-e6a8e700c583" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 233538" src="https://github.com/user-attachments/assets/5b71944d-1099-458d-a9c6-0018731cafbb" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 233544" src="https://github.com/user-attachments/assets/fe099030-b311-471a-aa2d-f027cbbc6a47" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 233548" src="https://github.com/user-attachments/assets/8f01f75e-46f5-445c-bb60-b6e3f9ebb076" />
+
 
 
 ## Penjelasan Singkat
